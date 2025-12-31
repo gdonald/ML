@@ -18,6 +18,7 @@ scikit-learn
 scipy
 seaborn
 # spacy==3.7.4
+tf-keras
 torch
 torchinfo
 torchvision
