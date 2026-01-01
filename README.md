@@ -26,7 +26,7 @@ Probabilistic graphical model using discrete Bayesian networks to predict weathe
 
 Fine-tuned DistilBERT model for binary sentiment classification on movie reviews. Implements early stopping, sequence length optimization (320 tokens), and threshold tuning. Achieves 92.2% accuracy and 0.9219 F1 score on 25k test reviews.
 
-### [Kuzushiji-MNIST Ensemble](https://github.com/gdonald/ML/blob/main/kuzushiji_mnist_ensemble/kuzushiji_mnist_ensenmble.ipynb)
+### [Kuzushiji-MNIST Ensemble](https://github.com/gdonald/ML/blob/main/kuzushiji_mnist/kuzushiji_mnist.ipynb)
 
 Ensemble learning combining three CNN architectures for Japanese Hiragana character recognition. Uses stacking with logistic regression meta-learner and k-fold cross-validation. Final ensemble achieves 96.05% accuracy with 0.1942 log loss on 10-class classification.
 
