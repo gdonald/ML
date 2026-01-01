@@ -42,3 +42,6 @@ Regression model predicting Connecticut school district attendance rates using H
 
 Binary classification predicting passenger survival on the Titanic using RandomForestClassifier. Features engineered include family size, title extraction, and one-hot encoding. Achieved 81.7% accuracy with hyperparameter tuning via GridSearchCV.
 
+### [Reversi](https://github.com/gdonald/reversi-py)
+
+Reinforcement learning experiments using Proximal Policy Optimization to train AI agents for Reversi/Othello. Implements 32 parallel environments with mixed opponent sparring against heuristic and random bots. Not very strong yet.
